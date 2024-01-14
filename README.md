@@ -23,4 +23,4 @@ Follow these steps to set up and run the XandicLifehub application:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/xandic-lifehub.git
+   https://github.com/rodercode/hotell-xandic.git
