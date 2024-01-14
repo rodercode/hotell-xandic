@@ -1,4 +1,4 @@
-# Hotel Xandic - Hotel Management Console Application
+# Hotel Management Console Application
 
 Welcome to Hotel Xandic's exciting new hotel management console application.
 
